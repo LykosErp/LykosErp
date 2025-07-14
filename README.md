@@ -1,14 +1,19 @@
 ### Repositórios destinado ao Sistema Lykos ERP! 💻🖥️
 
+<div align="center">
+ <img src="https://github.com/LykosErp/LykosErp/blob/main/IMG/logo-lykos-white.png?raw=true" alt="Lykos IMG"/>
+</div>
 
+<p>
+ <h6>🏬 Planejamento de Recursos Empresariais</h6>
+ <h6>💶 Finanças</h6>
+ <h6>🤵 RH</h6>
+ <h6>🗃️ Produção</h6>
+ <h6>🧺 Compras</h6>
+ <h6>🧭 PCM</h6>
+ <h6>⛽ Combustível</h6>
+</p>
 
--  🏬 Planejamento de Recursos Empresariais
--  💶 Finanças
--  🤵 RH
--  🗃️ Produção
--  🧺 Compras
--  🧭 PCM
--  ⛽ Combustível
 
 
 
