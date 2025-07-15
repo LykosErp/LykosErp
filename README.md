@@ -3,7 +3,7 @@
 <div align="center">
  <img src="https://github.com/LykosErp/LykosErp/blob/main/IMG/logo-lykos-white.png?raw=true" alt="Lykos IMG"/>
 </div>
- <p align="center">
+ <p align="left">
  <a href="https://github.com/LykosErp/PrivacyPolicy/blob/main/apps/TexasHoldem.md"> 🔏 Privacy Policy</a>
  </p>
 </br>
