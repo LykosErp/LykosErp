@@ -10,9 +10,9 @@
  
 <p>
  <h6>🏬 Planejamento de Recursos Empresariais</h6>
- <h6><a href=""/>💶 Finanças</a></h6>
+ <h6><a href="#"/>💶 Finanças</a></h6>
  <h6><a href="https://github.com/LykosErp/Recursos-Humanos"/>🤵 RH</a></h6>
- <h6><a href=""/>🗃️ Produção</a></h6>
+ <h6><a href="#"/>🗃️ Produção</a></h6>
  <h6><a href="https://github.com/LykosErp/ControleViagem"/>🚗 Controle veículo</a></h6>
  <h6><a href="https://github.com/LykosErp/ControleVendaAlcool"/>🧺 Compras</a></h6>
  <h6><a href="https://github.com/LykosErp/PCM"/>🧭 PCM</a></h6>
