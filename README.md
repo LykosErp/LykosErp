@@ -3,15 +3,20 @@
 <div align="center">
  <img src="https://github.com/LykosErp/LykosErp/blob/main/IMG/logo-lykos-white.png?raw=true" alt="Lykos IMG"/>
 </div>
-
+ <p align="center">
+ <a href="https://github.com/LykosErp/PrivacyPolicy/blob/main/apps/TexasHoldem.md"> 🔏 Privacy Policy</a>
+ </p>
+</br>
+ 
 <p>
  <h6>🏬 Planejamento de Recursos Empresariais</h6>
- <h6>💶 Finanças</h6>
- <h6>🤵 RH</h6>
- <h6>🗃️ Produção</h6>
- <h6>🧺 Compras</h6>
- <h6>🧭 PCM</h6>
- <h6>⛽ Combustível</h6>
+ <h6><a href=""/>💶 Finanças</a></h6>
+ <h6><a href="https://github.com/LykosErp/Recursos-Humanos"/>🤵 RH</a></h6>
+ <h6><a href=""/>🗃️ Produção</a></h6>
+ <h6><a href="https://github.com/LykosErp/ControleViagem"/>🚗 Controle veículo</a></h6>
+ <h6><a href="https://github.com/LykosErp/ControleVendaAlcool"/>🧺 Compras</a></h6>
+ <h6><a href="https://github.com/LykosErp/PCM"/>🧭 PCM</a></h6>
+ <h6><a href="https://github.com/LykosErp/Abastecimento"/>⛽ Combustível</a></h6>
 </p>
 
 
